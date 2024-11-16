@@ -1,0 +1,52 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+body {
+    background: #ccc;
+}
+
+#name {
+    color: blue;
+}
+
+.image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 3px solid #000;
+}
+
+.post {
+    background: #FFF;
+    padding: 10px;
+    border: 3px solid #000;
+    margin: 0px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    text-transform: capitalize;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.info_rodape {
+    background: #FFF;
+    padding: 10px;
+    border: 3px solid #000;
+    margin: 0px;
+    margin-bottom: 15px;
+    border-radius: 5px; 
+}
+
+.info_contact {
+    padding: 0px 1px;
+    list-style-type: none;
+}
